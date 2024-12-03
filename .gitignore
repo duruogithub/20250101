@@ -36,3 +36,4 @@ logs/
 .AppleDouble
 Thumbs.db
 Desktop.ini
+.vercel
