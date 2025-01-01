@@ -15,10 +15,5 @@
       "src": "/(.*)",
       "dest": "app.py"
     }
-  ],
-  "env": {
-    "APP_NAME": "FlaskApp",
-    "APP_ENV": "development",
-    "PORT": "5000"
-  }
+  ]
 }
