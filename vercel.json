@@ -15,5 +15,11 @@
       "src": "/(.*)",
       "dest": "app.py"
     }
-  ]
+  ],
+  "build": {
+    "env": {
+      "VERCEL_CACHE": "false",
+      "PYTHON_VERSION": "3.11.5"
+    }
+  }
 }
